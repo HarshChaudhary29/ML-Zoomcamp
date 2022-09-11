@@ -1,1 +1,1 @@
-This folder contains the homework I submiited.
+This folder contains the homework I submited.
